@@ -5,6 +5,7 @@
 #include <stdio.h>//printf的头文件
 int main() //主函数
 {
+
 	int a = 0;
 	int b = 0;
 	int sum =0;
