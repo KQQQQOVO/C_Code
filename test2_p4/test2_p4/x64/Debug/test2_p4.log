@@ -1,0 +1,3 @@
+﻿  test.c
+D:\Code\C\test2_p4\test2_p4\test.c(1,1): warning C4828: 文件包含在偏移 0x17e 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  test2_p4.vcxproj -> D:\Code\C\test2_p4\x64\Debug\test2_p4.exe
