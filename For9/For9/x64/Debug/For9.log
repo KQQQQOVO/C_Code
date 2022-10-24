@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 ﻿  常量变量.c
 LINK : fatal error LNK1168: 无法打开 D:\Code\C\项目位置\For9\x64\Debug\For9-24.exe 进行写入
+=======
+﻿  常量变量.c
+LINK : fatal error LNK1168: 无法打开 D:\Code\C\项目位置\For9\x64\Debug\For9-24.exe 进行写入
+>>>>>>> 574665478bcb0b1458d1f23f6a08f99757aae40f

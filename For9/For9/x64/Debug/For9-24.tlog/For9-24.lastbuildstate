@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 PlatformToolSet=v143:VCToolArchitecture=Native64Bit:VCToolsVersion=14.33.31629:TargetPlatformVersion=10.0.19041.0:
 Debug|x64|D:\Code\C\项目位置\For9\|
+=======
+PlatformToolSet=v143:VCToolArchitecture=Native64Bit:VCToolsVersion=14.33.31629:TargetPlatformVersion=10.0.19041.0:
+Debug|x64|D:\Code\C\项目位置\For9\|
+>>>>>>> 574665478bcb0b1458d1f23f6a08f99757aae40f
