@@ -47,7 +47,7 @@ void game()
 int main()
 {
 	int input = 0;
-	//为什么放下面，因为之生成一次不加入到循环，随机的数值就会很乱，不会相近.
+	//为什么放下面，因为之生成一次不加入到循环，随机的数值就会很乱，不会相近
 	srand((unsigned int)time(NULL));//unsigned int是srand需要的值，这里强制转换time(NULL)给srand用
 	do
 	{
